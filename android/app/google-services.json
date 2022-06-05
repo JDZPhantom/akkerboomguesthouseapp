@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471098440272",
+    "project_id": "akkerboom-guesthousedb",
+    "storage_bucket": "akkerboom-guesthousedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471098440272:android:ae61d60dd875d33d1e2f55",
+        "android_client_info": {
+          "package_name": "com.example.akkerboomsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471098440272-mcc98bjugt58dr5veu8dd5p7423fosks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Y_3NsmET2253gsk3pLPhXHqoHclhklE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471098440272-mcc98bjugt58dr5veu8dd5p7423fosks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
